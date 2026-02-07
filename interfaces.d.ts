@@ -56,7 +56,7 @@ interface variant_detailed {
 	 * - snowflake: a card that is stamped with a snowflake, available in the yearly advent calendar
 	 * - trick-or-trade: a card that is stamped with a pikachu-pumpkin, available in the yearly halloween/trick-or-trade boosters
 	 */
-	stamp?: Array<'1st-edition' | 'w-promo' | 'pre-release' | 'pokemon-center' | 'set-logo' | 'staff' | 'pikachu-tail'
+	stamps?: Array<'1st-edition' | 'w-promo' | 'pre-release' | 'pokemon-center' | 'set-logo' | 'staff' | 'pikachu-tail'
 		| 'wotc' | 'd-edition-error' | '1st-edition-scratch-error' | "1st-edition-error" | '1st-movie' | '1st-movie-inverted'
 		| 'pokemon-4-ever' | 'pokemon-center-ny' | "winner" | '25th-celebration' | 'chris-fulop' | 'tsuguyoshi-yamato'
 		| 'reed-weichler' | 'kevin-nguyen' | 'professor-program' | 'takashi-yoneda' | 'michael-gonzalez' | 'curran-hill'
@@ -85,43 +85,6 @@ interface variant_detailed {
 	 * if not set, the variant is available in all languages
 	 */
 	languages?: SupportedLanguages[]
-}
-
-interface variants {
-	/**
-	 * Card base version
-	 */
-	normal?: boolean
-	/**
-	 * Holo Reverse
-	 * (colored Background holographic)
-	 */
-	reverse?: boolean
-	/**
-	 * Holo Card
-	 * (illustration holographic)
-	 */
-	holo?: boolean
-
-	/**
-	 * can have a first Edition stamp
-	 */
-	firstEdition?: boolean
-
-	/**
-	 * Can be found in Jumob Format
-	 */
-	jumbo?: boolean
-
-	/**
-	 * Card has a pre-release stamp
-	 */
-	preRelease?: boolean
-
-	/**
-	 * Card has a W stamp
-	 */
-	wPromo?: true
 }
 
 export type Types = 'Colorless' | 'Darkness' | 'Dragon' |
@@ -234,7 +197,7 @@ export interface Card {
 	/**
 	 * Card Variants (Override Set Variants)
 	 */
-	variants?: variants | Array<variant_detailed>
+	variants?: Array<variant_detailed>
 
 	/**
 	 * Card Set

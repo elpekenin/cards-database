@@ -35,16 +35,6 @@ export async function cardToCardSimple(id: string, card: Card, lang: SupportedLa
 	}
 }
 
-function variantsDetailedToVariants(variants_detailed: Array<variant_detailed>): CardSingle['variants'] {
-	return {
-		firstEdition: variants_detailed?.some((variant) => variant.stamp?.some((stamp) => stamp === '1st-edition')) ?? false,
-		holo: variants_detailed?.some((variant) => variant.type === 'holo') ?? false,
-		normal: variants_detailed?.some((variant) => variant.type === 'normal') ?? false,
-		reverse: variants_detailed?.some((variant) => variant.type === 'reverse') ?? false,
-		wPromo: variants_detailed?.some((variant) => variant.stamp?.some((stamp) => stamp === 'w-Promo')) ?? false
-	}
-}
-
 function variantsToVariantsDetailed(variants: CardSingle['variants'],lang: SupportedLanguages): Array<variant_detailed> {
 	const result: Array<variant_detailed> = [];
 	const addVariant = (type: string, stamps: string[] = []) => {
@@ -91,22 +81,13 @@ export async function cardToCardSingle(localId: string, card: Card, lang: Suppor
 		rarity: translate('rarity', card.rarity, lang) as any,
 		set: await setToSetSimple(card.set, lang),
 
-		variants : Array.isArray(card.variants) ?
-			variantsDetailedToVariants(card.variants) : {
-			firstEdition: typeof card.variants?.firstEdition === 'boolean' ? card.variants.firstEdition : false,
-			holo: typeof card.variants?.holo === 'boolean' ? card.variants.holo : true,
-			normal: typeof card.variants?.normal === 'boolean' ? card.variants.normal : true,
-			reverse: typeof card.variants?.reverse === 'boolean' ? card.variants.reverse : true,
-			wPromo: typeof card.variants?.wPromo === 'boolean' ? card.variants.wPromo : false
-		},
-
 		variants_detailed: Array.isArray(card.variants) ? card.variants?.map((variant) => {
 			return {
 				type: translate('variantType', variant.type, lang) as any,
 				subtype: translate('variantSubtype', variant.subtype, lang) as any,
 				// only include size when it's not standard
 				size: variant.size && variant.size !== 'standard' ? translate('variantSize', variant.size, lang) as any : translate('variantSize', "standard", lang) as any,
-				stamp: variant.stamp ? variant.stamp.map((stamp) => {
+				stamps: variant.stamps ? variant.stamps.map((stamp) => {
 					return translate('variantStamp', stamp, lang)
 				}) : undefined,
 				foil: variant.foil ? translate('variantFoil', variant.foil, lang) : undefined

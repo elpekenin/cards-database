@@ -97,11 +97,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["state-championships"]
+			stamps: ["state-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["state-championships","staff"]
+			stamps: ["state-championships","staff"]
 		}
 	]
 }

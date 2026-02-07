@@ -86,7 +86,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
@@ -94,11 +94,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["national-championships"]
+			stamps: ["national-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["national-championships","staff"]
+			stamps: ["national-championships","staff"]
 		},
 	]
 }

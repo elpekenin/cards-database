@@ -77,11 +77,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["curran-hill"]
+			stamps: ["curran-hill"]
 		}
 	]
 }

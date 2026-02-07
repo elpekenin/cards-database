@@ -83,11 +83,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		}
 	]
 }

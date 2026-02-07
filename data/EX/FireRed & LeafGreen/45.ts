@@ -93,19 +93,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		},
 		{
 			type: "normal",
-			stamp: ["jeremy-maron"]
+			stamps: ["jeremy-maron"]
 		},
 		{
 			type: "normal",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		},
 		{
 			type: "normal",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		}
 	]
 }

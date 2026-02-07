@@ -32,7 +32,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["tsuguyoshi-yamato"]
+			stamps: ["tsuguyoshi-yamato"]
 		}
 	]
 }

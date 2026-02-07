@@ -88,7 +88,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["1st-edition"]
+			stamps: ["1st-edition"]
 		}
 	]
 

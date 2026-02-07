@@ -70,7 +70,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		}
 	]
 }

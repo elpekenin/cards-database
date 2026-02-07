@@ -79,11 +79,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["countdown-calendar"]
+			stamps: ["countdown-calendar"]
 		},
 		{
 			type: "normal",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		}
 	]
 }

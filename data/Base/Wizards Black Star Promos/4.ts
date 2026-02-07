@@ -76,15 +76,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["1st-movie-inverted"]
+			stamps: ["1st-movie-inverted"]
 		},
 		{
 			type: "normal",
-			stamp: ["1st-movie"]
+			stamps: ["1st-movie"]
 		},
 		{
 			type: "normal",
-			stamp: ["pikachu-tail"]
+			stamps: ["pikachu-tail"]
 		}
 	]
 }

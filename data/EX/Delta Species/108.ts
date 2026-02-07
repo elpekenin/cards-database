@@ -104,7 +104,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		},
 	]
 }

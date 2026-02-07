@@ -63,11 +63,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["eb-games"]
+			stamps: ["eb-games"]
 		},
 		{
 			type: "holo",
-			stamp: ["gamestop"]
+			stamps: ["gamestop"]
 		}
 	],
 

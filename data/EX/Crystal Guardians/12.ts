@@ -92,11 +92,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		}
 	]
 }

@@ -91,7 +91,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["paul-atanassov"]
+			stamps: ["paul-atanassov"]
 		}
 	]
 }

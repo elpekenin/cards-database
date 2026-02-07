@@ -57,7 +57,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["pokemon-center-ny"]
+			stamps: ["pokemon-center-ny"]
 		}
 	]
 }

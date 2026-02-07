@@ -92,7 +92,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		}
 	]
 }

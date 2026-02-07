@@ -109,11 +109,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["staff", "national-championships"]
+			stamps: ["staff", "national-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["national-championships"]
+			stamps: ["national-championships"]
 		}
 	]
 }

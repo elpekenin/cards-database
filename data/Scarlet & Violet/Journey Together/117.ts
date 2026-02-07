@@ -88,15 +88,15 @@ const card: Card = {
 		},
 		{
 			type: 'holo',
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: 'holo',
-			stamp: ["gamestop"]
+			stamps: ["gamestop"]
 		},
 		{
 			type: 'holo',
-			stamp: ["eb-games"]
+			stamps: ["eb-games"]
 		},
 	]
 }

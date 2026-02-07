@@ -90,19 +90,19 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["tsubasa-nakamura"]
+			stamps: ["tsubasa-nakamura"]
 		},
 		{
 			type: "holo",
-			stamp: ["stephen-silvestro"]
+			stamps: ["stephen-silvestro"]
 		},
 		{
 			type: "holo",
-			stamp: ["mychael-bryan"]
+			stamps: ["mychael-bryan"]
 		},
 		{
 			type: "holo",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		},
 	]
 }

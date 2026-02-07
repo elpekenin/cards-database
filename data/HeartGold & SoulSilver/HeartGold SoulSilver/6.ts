@@ -96,7 +96,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp : ["yuka-furusawa"]
+			stamps : ["yuka-furusawa"]
 		}
 	],
 

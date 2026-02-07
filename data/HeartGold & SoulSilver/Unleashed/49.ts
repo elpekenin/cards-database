@@ -81,11 +81,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["gustavo-wada"],
+			stamps: ["gustavo-wada"],
 		},
 		{
 			type: "normal",
-			stamp: ["snowflake"],
+			stamps: ["snowflake"],
 			languages: ["de"]
 		}
 	],

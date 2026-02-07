@@ -33,15 +33,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["professor-program"]
+			stamps: ["professor-program"]
 		},
 		{
 			type: "normal",
-			stamp: ["tsuguyoshi-yamato"]
+			stamps: ["tsuguyoshi-yamato"]
 		},
 		{
 			type: "normal",
-			stamp: ["kevin-nguyen"]
+			stamps: ["kevin-nguyen"]
 		}
 	]
 }

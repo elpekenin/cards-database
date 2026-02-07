@@ -33,15 +33,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		},
 		{
 			type: "normal",
-			stamp: ["kevin-nguyen"]
+			stamps: ["kevin-nguyen"]
 		},
 		{
 			type: "normal",
-			stamp: ["chris-fulop"]
+			stamps: ["chris-fulop"]
 		}
 	]
 }

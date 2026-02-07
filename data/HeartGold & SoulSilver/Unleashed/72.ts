@@ -30,7 +30,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["igor-costa"],
+			stamps: ["igor-costa"],
 		}
 	],
 

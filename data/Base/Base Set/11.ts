@@ -96,7 +96,7 @@ const card: Card = {
 		{
 			type: "holo",
 			subtype: "shadowless",
-			stamp: ["1st-edition"]
+			stamps: ["1st-edition"]
 		},
 		{
 			type: "holo",

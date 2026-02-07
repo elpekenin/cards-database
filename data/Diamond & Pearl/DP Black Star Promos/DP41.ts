@@ -66,7 +66,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["tsubasa-nakamura"]
+			stamps: ["tsubasa-nakamura"]
 		}
 	],
 }

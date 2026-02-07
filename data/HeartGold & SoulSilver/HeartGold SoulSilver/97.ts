@@ -30,35 +30,35 @@ const card: Card = {
 		},
 		{
 			type: "reverse",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		},
 		{
 			type: "normal",
-			stamp : ["mychael-bryan"],
+			stamps : ["mychael-bryan"],
 		},
 		{
 			type: "normal",
-			stamp : ["yuta-komatsuda"],
+			stamps : ["yuta-komatsuda"],
 		},
 		{
 			type: "normal",
-			stamp : ["yuka-furusawa"],
+			stamps : ["yuka-furusawa"],
 		},
 		{
 			type: "normal",
-			stamp : ["gustavo-wada"],
+			stamps : ["gustavo-wada"],
 		},
 		{
 			type: "normal",
-			stamp : ["christopher-kan"],
+			stamps : ["christopher-kan"],
 		},
 		{
 			type: "normal",
-			stamp : ["ross-cawthorn"],
+			stamps : ["ross-cawthorn"],
 		},
 		{
 			type: "normal",
-			stamp : ["david-cohen"],
+			stamps : ["david-cohen"],
 		}
 	],
 

@@ -76,19 +76,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		},
 		{
 			type: "normal",
-			stamp: ["jeremy-scharff-kim"]
+			stamps: ["jeremy-scharff-kim"]
 		},
 
 	]

@@ -44,12 +44,12 @@ const card: Card = {
 	variants: [
 		{
 			type: "normal",
-			stamp: ["worlds-2025"]
+			stamps: ["worlds-2025"]
 		},
 		{
 			type: "reverse",
 			foil: "league",
-			stamp: ["winner"]
+			stamps: ["winner"]
 		},
 	]
 }

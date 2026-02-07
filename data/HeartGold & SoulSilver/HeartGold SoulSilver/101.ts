@@ -34,19 +34,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp : ["yuta-komatsuda"],
+			stamps : ["yuta-komatsuda"],
 		},
 		{
 			type: "normal",
-			stamp : ["gustavo-wada"],
+			stamps : ["gustavo-wada"],
 		},
 		{
 			type: "normal",
-			stamp : ["christopher-kan"],
+			stamps : ["christopher-kan"],
 		},
 		{
 			type: "normal",
-			stamp : ["igor-costa"],
+			stamps : ["igor-costa"],
 		},
 	],
 

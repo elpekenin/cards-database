@@ -30,15 +30,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["michael-pramawat"],
+			stamps: ["michael-pramawat"],
 		},
 		{
 			type: "normal",
-			stamp: ["yuka-furusawa"],
+			stamps: ["yuka-furusawa"],
 		},
 		{
 			type: "normal",
-			stamp: ["gustavo-wada"],
+			stamps: ["gustavo-wada"],
 		}
 	],
 

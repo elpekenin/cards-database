@@ -77,7 +77,7 @@ const card: Card = {
 	variants: [
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
@@ -88,19 +88,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["destiny-deoxys"]
+			stamps: ["destiny-deoxys"]
 		},
 		{
 			type: "normal",
-			stamp: ["pokemon-day"]
+			stamps: ["pokemon-day"]
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships"]
+			stamps: ["regional-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["stadium-challenge"]
+			stamps: ["stadium-challenge"]
 		}
 	]
 }

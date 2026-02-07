@@ -30,19 +30,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		},
 		{
 			type: "normal",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		}
 	]
 }

@@ -78,11 +78,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		},
 	]
 }

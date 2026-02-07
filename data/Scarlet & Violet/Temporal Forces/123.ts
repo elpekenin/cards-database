@@ -77,11 +77,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"],
+			stamps: ["set-logo"],
 			size: "jumbo"
 		}
 	],

@@ -73,11 +73,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["1st-edition"]
+			stamps: ["1st-edition"]
 		},
 		{
 			type: "holo",
-			stamp: ["winner"],
+			stamps: ["winner"],
 			size: "jumbo"
 		}
 	]

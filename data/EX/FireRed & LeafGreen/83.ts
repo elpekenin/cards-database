@@ -84,7 +84,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		}
 	]
 }

@@ -63,15 +63,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["jun-hasebe"]
+			stamps: ["jun-hasebe"]
 		},
 		{
 			type: "normal",
-			stamp: ["tom-roos"]
+			stamps: ["tom-roos"]
 		},
 	]
 }

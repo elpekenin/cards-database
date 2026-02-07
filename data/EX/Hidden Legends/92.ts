@@ -34,43 +34,43 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["chris-fulop"]
+			stamps: ["chris-fulop"]
 		},
 		{
 			type: "normal",
-			stamp: ["tsuguyoshi-yamato"]
+			stamps: ["tsuguyoshi-yamato"]
 		},
 		{
 			type: "normal",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		},
 		{
 			type: "normal",
-			stamp: ["kevin-nguyen"]
+			stamps: ["kevin-nguyen"]
 		},
 		{
 			type: "normal",
-			stamp: ["curran-hill"]
+			stamps: ["curran-hill"]
 		},
 		{
 			type: "normal",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		},
 		{
 			type: "normal",
-			stamp: ["michael-gonzalez"]
+			stamps: ["michael-gonzalez"]
 		},
 		{
 			type: "normal",
-			stamp: ["jeremy-maron"]
+			stamps: ["jeremy-maron"]
 		},
 		{
 			type: "normal",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		},
 		{
 			type: "normal",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		}
 	]
 }

@@ -91,18 +91,18 @@ const card: Card = {
 	variants: [
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
 		},
 		{
 			type: "normal",
-			stamp: ["miska-saari"]
+			stamps: ["miska-saari"]
 		},
 		{
 			type: "normal",
-			stamp: ["jeremy-scharff-kim"]
+			stamps: ["jeremy-scharff-kim"]
 		},
 	]
 }

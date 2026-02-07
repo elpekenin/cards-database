@@ -84,7 +84,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp : ["christopher-kan"],
+			stamps : ["christopher-kan"],
 		},
 	],
 

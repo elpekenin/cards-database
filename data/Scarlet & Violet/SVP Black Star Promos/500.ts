@@ -39,7 +39,7 @@ const card: Card = {
 		{
 			type: "normal",
 			size: "jumbo",
-			stamp: ["horizons"]
+			stamps: ["horizons"]
 		},
 	]
 }

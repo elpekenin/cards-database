@@ -63,11 +63,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
-			stamp: ["wizard-world-philadelphia"]
+			stamps: ["wizard-world-philadelphia"]
 		}
 	]
 }

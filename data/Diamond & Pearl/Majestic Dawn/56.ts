@@ -82,7 +82,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["platinum"]
+			stamps: ["platinum"]
 		}
 	]
 }

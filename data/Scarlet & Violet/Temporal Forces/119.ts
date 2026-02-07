@@ -78,7 +78,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{ 
 			type: "holo",
@@ -86,18 +86,18 @@ const card: Card = {
 		},
 		{ 
 			type: "normal",
-			stamp: ["eb-games"]
+			stamps: ["eb-games"]
 		},
 		{ 
 			type: "normal",
-			stamp: ["gamestop"]
+			stamps: ["gamestop"]
 		},
 		{
 			type: "normal",
 		},
 		{
 			type: "normal",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		}
 	],
 

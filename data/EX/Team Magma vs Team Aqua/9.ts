@@ -102,7 +102,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["tsuguyoshi-yamato"]
+			stamps: ["tsuguyoshi-yamato"]
 		},
 		{
 			type: "normal",

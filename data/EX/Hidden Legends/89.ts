@@ -34,7 +34,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["curran-hill"]
+			stamps: ["curran-hill"]
 		},
 	]
 }

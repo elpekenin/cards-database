@@ -38,47 +38,47 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["paul-atanassov"]
+			stamps: ["paul-atanassov"]
 		},
 		{
 			type: "normal",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		},
 		{
 			type: "normal",
-			stamp: ["tristan-robinson"]
+			stamps: ["tristan-robinson"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		},
 		{
 			type: "normal",
-			stamp: ["tsubasa-nakamura"]
+			stamps: ["tsubasa-nakamura"]
 		},
 		{
 			type: "normal",
-			stamp: ["stephen-silvestro"]
+			stamps: ["stephen-silvestro"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-martinez"]
+			stamps: ["jason-martinez"]
 		},
 		{
 			type: "normal",
-			stamp: ["david-cohen"]
+			stamps: ["david-cohen"]
 		},
 		{
 			type: "normal",
-			stamp: ["michael-pramawat"]
+			stamps: ["michael-pramawat"]
 		},
 		{
 			type: "normal",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		},
 		{
 			type: "normal",
-			stamp: ["yuka-furusawa"]
+			stamps: ["yuka-furusawa"]
 		}
 	]
 }

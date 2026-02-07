@@ -34,11 +34,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["kevin-nguyen"]
+			stamps: ["kevin-nguyen"]
 		},
 		{
 			type: "normal",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		}
 	]
 }

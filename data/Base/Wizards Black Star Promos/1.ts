@@ -63,11 +63,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["1st-edition-error"]
+			stamps: ["1st-edition-error"]
 		},
 		{
 			type: "normal",
-			stamp: ["pikachu-tail"]
+			stamps: ["pikachu-tail"]
 		}
 	]
 }

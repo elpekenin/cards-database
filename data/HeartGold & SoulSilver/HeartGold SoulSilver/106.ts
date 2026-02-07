@@ -80,7 +80,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp : ["ross-cawthorn"],
+			stamps : ["ross-cawthorn"],
 		},
 	],
 

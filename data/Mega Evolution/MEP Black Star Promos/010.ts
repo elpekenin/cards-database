@@ -58,7 +58,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["pokemon-center"]
+			stamps: ["pokemon-center"]
 		}
 	]
 }

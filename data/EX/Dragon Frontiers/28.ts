@@ -74,11 +74,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["pre-release"]
+			stamps: ["pre-release"]
 		}
 
 	]

@@ -82,7 +82,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["gustavo-wada"],
+			stamps: ["gustavo-wada"],
 		},
 	],
 

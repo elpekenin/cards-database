@@ -36,7 +36,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["tsuguyoshi-yamato"]
+			stamps: ["tsuguyoshi-yamato"]
 		},
 		{
 			type: "normal",
@@ -44,7 +44,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["winner"]
+			stamps: ["winner"]
 		}
 	]
 }

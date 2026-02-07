@@ -66,11 +66,11 @@ const card: Card = {
 		{
 			type: "normal",
 			size: "jumbo",
-			stamp: ["25th-celebration"]
+			stamps: ["25th-celebration"]
 		},
 		{
 			type: "normal",
-			stamp: ["chris-fulop"]
+			stamps: ["chris-fulop"]
 		}
 	]
 }

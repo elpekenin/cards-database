@@ -87,7 +87,7 @@ const card: Card = {
 		},
 		{
 			type: "reverse",
-			stamp: ["platinum"]
+			stamps: ["platinum"]
 		},
 		{
 			type: "holo",
@@ -95,7 +95,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["david-cohen"]
+			stamps: ["david-cohen"]
 		}
 	]
 }

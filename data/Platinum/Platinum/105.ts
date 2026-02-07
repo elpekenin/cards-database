@@ -34,15 +34,15 @@ const card: Card = {
 		},
 		{
 			type:"normal",
-			stamp: ["tsubasa-nakamura"]
+			stamps: ["tsubasa-nakamura"]
 		},
 		{
 			type:"normal",
-			stamp: ["stephen-silvestro"]
+			stamps: ["stephen-silvestro"]
 		},
 		{
 			type:"normal",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		}
 	]
 }

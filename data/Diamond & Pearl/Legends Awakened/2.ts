@@ -105,11 +105,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["national-championships"]
+			stamps: ["national-championships"]
 		},
 		{
 			type: "holo",
-			stamp: ["national-championships","staff"]
+			stamps: ["national-championships","staff"]
 		}
 	]
 }

@@ -80,7 +80,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["yuka-furusawa"]
+			stamps: ["yuka-furusawa"]
 		}
 	]
 }

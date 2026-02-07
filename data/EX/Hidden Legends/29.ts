@@ -91,7 +91,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["gym-challenge"]
+			stamps: ["gym-challenge"]
 		}
 	]
 }

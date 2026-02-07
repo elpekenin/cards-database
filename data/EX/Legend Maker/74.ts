@@ -30,11 +30,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		}
 	]
 }

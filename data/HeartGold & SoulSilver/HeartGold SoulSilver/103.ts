@@ -34,15 +34,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp : ["michael-pramawat"],
+			stamps : ["michael-pramawat"],
 		},
 		{
 			type: "normal",
-			stamp : ["yuta-komatsuda"],
+			stamps : ["yuta-komatsuda"],
 		},
 		{
 			type: "normal",
-			stamp : ["ross-cawthorn"],
+			stamps : ["ross-cawthorn"],
 		},
 	],
 

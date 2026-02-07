@@ -30,11 +30,11 @@ const card: Card = {
 		},
 		{
 			type: "reverse",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		},
 		{
 			type: "normal",
-			stamp : ["gustavo-wada"],
+			stamps : ["gustavo-wada"],
 		}
 	],
 

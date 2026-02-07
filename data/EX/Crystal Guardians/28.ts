@@ -103,7 +103,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
@@ -111,7 +111,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships"]
+			stamps: ["regional-championships"]
 		}
 	]
 }

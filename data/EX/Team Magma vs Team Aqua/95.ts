@@ -84,7 +84,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		}
 	]
 }

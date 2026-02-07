@@ -27,18 +27,18 @@ const card: Card = {
 	variants: [
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
 		},
 		{
 			type: "normal",
-			stamp: ["michael-gonzalez"]
+			stamps: ["michael-gonzalez"]
 		},
 		{
 			type: "normal",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		},
 	]
 }

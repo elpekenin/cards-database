@@ -86,23 +86,23 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["chris-fulop"]
+			stamps: ["chris-fulop"]
 		},
 		{
 			type: "normal",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		},
 		{
 			type: "normal",
-			stamp: ["kevin-nguyen"]
+			stamps: ["kevin-nguyen"]
 		},
 		{
 			type: "normal",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		},
 		{
 			type: "normal",
-			stamp: ["michael-gonzalez"]
+			stamps: ["michael-gonzalez"]
 		}
 	]
 }

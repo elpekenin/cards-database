@@ -30,23 +30,23 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["akira-miyazaki"]
+			stamps: ["akira-miyazaki"]
 		},
 		{
 			type: "normal",
-			stamp: ["paul-atanassov"]
+			stamps: ["paul-atanassov"]
 		},
 		{
 			type: "normal",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		},
 		{
 			type: "normal",
-			stamp: ["tristan-robinson"]
+			stamps: ["tristan-robinson"]
 		}
 	]
 }

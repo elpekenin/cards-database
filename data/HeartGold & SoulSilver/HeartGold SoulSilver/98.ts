@@ -30,15 +30,15 @@ const card: Card = {
 		},
 		{
 			type: "reverse",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		},
 		{
 			type: "normal",
-			stamp : ["yuta-komatsuda"],
+			stamps : ["yuta-komatsuda"],
 		},
 		{
 			type: "normal",
-			stamp : ["yuka-furusawa"],
+			stamps : ["yuka-furusawa"],
 		},
 	],
 

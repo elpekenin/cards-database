@@ -87,7 +87,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["countdown-calendar"]
+			stamps: ["countdown-calendar"]
 		}
 	],
 }

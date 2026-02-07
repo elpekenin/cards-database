@@ -38,19 +38,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["stephen-silvestro"]
+			stamps: ["stephen-silvestro"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-martinez"]
+			stamps: ["jason-martinez"]
 		},
 		{
 			type: "normal",
-			stamp: ["mychael-bryan"]
+			stamps: ["mychael-bryan"]
 		},
 		{
 			type: "normal",
-			stamp: ["yuka-furusawa"]
+			stamps: ["yuka-furusawa"]
 		}
 	]
 }

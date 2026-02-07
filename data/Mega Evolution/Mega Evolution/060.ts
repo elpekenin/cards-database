@@ -88,7 +88,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		}
 	],
 

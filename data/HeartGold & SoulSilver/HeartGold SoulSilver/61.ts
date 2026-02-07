@@ -77,12 +77,12 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp : ["snowflake"],
+			stamps : ["snowflake"],
 			languages: ["de"]
 		},
 		{
 			type: "normal",
-			stamp : ["christopher-kan"],
+			stamps : ["christopher-kan"],
 		}
 	],
 

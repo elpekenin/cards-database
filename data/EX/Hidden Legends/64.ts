@@ -81,7 +81,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["city-championships"]
+			stamps: ["city-championships"]
 		}
 	]
 }

@@ -71,7 +71,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["trick-or-trade"]
+			stamps: ["trick-or-trade"]
 		}
 	],
 

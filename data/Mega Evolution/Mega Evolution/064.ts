@@ -85,11 +85,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["asia-promo"]
+			stamps: ["asia-promo"]
 		},
 		{
 			type: "reverse",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		}
 	],
 

@@ -91,11 +91,11 @@ const card: Card = {
 		},
 		{
 			type:"holo",
-			stamp: ["tsubasa-nakamura"]
+			stamps: ["tsubasa-nakamura"]
 		},
 		{
 			type:"holo",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		}
 	]
 }

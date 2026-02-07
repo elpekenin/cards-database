@@ -77,7 +77,7 @@ const card: Card = {
 	variants: [
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
@@ -88,11 +88,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["gym-challenge"]
+			stamps: ["gym-challenge"]
 		},
 		{
 			type: "normal",
-			stamp: ["pokemon-day"]
+			stamps: ["pokemon-day"]
 		},
 	]
 }

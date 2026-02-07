@@ -58,12 +58,12 @@ const card: Card = {
 		{
 			type: "reverse",
 			foil: "cosmos",
-			stamp: ["winner"]
+			stamps: ["winner"]
 		},
 		{
 			type: "reverse",
 			foil: "cosmos",
-			stamp: ["winner"],
+			stamps: ["winner"],
 			size: "jumbo"
 		}
 	]

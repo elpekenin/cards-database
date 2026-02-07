@@ -101,15 +101,15 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		},
 		{
 			type: "holo",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		},
 		{
 			type: "holo",
-			stamp: ["michael-pramawat"]
+			stamps: ["michael-pramawat"]
 		}
 	]
 }

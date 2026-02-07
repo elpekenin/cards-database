@@ -85,14 +85,14 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["pokemon-day"]
+			stamps: ["pokemon-day"]
 		},
 		{
 			type: "reverse",
 		},
 		{
 			type: "normal",
-			stamp : ["snowflake"],
+			stamps : ["snowflake"],
 			languages: ["de"]
 		},
 	],

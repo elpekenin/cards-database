@@ -84,11 +84,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		},
 		{
 			type: "normal",
-			stamp: ["curran-hill"]
+			stamps: ["curran-hill"]
 		}
 	]
 }

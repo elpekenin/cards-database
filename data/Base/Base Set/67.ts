@@ -67,7 +67,7 @@ const card: Card = {
 		{
 			type: "normal",
 			subtype: "shadowless",
-			stamp: ["1st-edition"]
+			stamps: ["1st-edition"]
 		},
 		{
 			type: "normal",

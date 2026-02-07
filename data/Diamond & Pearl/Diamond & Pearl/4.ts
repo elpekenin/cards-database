@@ -96,7 +96,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["akira-miyazaki"]
+			stamps: ["akira-miyazaki"]
 		}
 	]
 }

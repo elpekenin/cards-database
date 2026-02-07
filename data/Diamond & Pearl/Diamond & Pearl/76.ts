@@ -85,11 +85,11 @@ const card: Card = {
 		{
 			type: "normal",
 			size: "jumbo",
-			stamp: ["25th-celebration"]
+			stamps: ["25th-celebration"]
 		},
 		{
 			type: "reverse",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
@@ -97,7 +97,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["pokemon-day"]
+			stamps: ["pokemon-day"]
 		},
 	]
 }

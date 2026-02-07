@@ -91,7 +91,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		}
 	]
 }

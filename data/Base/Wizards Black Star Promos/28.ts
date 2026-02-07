@@ -54,7 +54,7 @@ const card: Card = {
 	variants: [
 		{
 			type: "normal",
-			stamp: ["pikachu-tail"]
+			stamps: ["pikachu-tail"]
 		},
 		{
 			type: "normal",

@@ -30,11 +30,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["professor-program"]
+			stamps: ["professor-program"]
 		}
 	]
 }

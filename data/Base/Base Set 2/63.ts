@@ -74,7 +74,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["wotc"]
+			stamps: ["wotc"]
 		}
 	]
 }

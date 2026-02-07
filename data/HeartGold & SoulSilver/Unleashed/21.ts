@@ -97,7 +97,7 @@ const card: Card = {
 		{
 			type: "reverse",
 			foil: "league",
-			stamp: ["staff"],
+			stamps: ["staff"],
 		},
 	],
 

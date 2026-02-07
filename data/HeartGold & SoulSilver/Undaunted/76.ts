@@ -30,7 +30,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["shuto-itagaki"]
+			stamps: ["shuto-itagaki"]
 		}
 	],
 

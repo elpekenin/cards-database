@@ -34,27 +34,27 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["michael-pramawat"],
+			stamps: ["michael-pramawat"],
 		},
 		{
 			type: "normal",
-			stamp: ["yuka-furusawa"],
+			stamps: ["yuka-furusawa"],
 		},
 		{
 			type: "normal",
-			stamp: ["gustavo-wada"],
+			stamps: ["gustavo-wada"],
 		},
 		{
 			type: "normal",
-			stamp: ["christopher-kan"],
+			stamps: ["christopher-kan"],
 		},
 		{
 			type: "normal",
-			stamp: ["ross-cawthorn"],
+			stamps: ["ross-cawthorn"],
 		},
 		{
 			type: "normal",
-			stamp: ["david-cohen"],
+			stamps: ["david-cohen"],
 		}
 	],
 

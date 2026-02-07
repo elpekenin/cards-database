@@ -76,7 +76,7 @@ const card: Card = {
 		},
 		{
 			type: 'holo',
-			stamp: ["snowflake"]
+			stamps: ["snowflake"]
 		},
 	]
 }

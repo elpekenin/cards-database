@@ -58,7 +58,7 @@ const card: Card = {
 	variants: [
 		{
 			type: "holo",
-			stamp: ["pikachu-tail"]
+			stamps: ["pikachu-tail"]
 		},
 		{
 			type: "holo",

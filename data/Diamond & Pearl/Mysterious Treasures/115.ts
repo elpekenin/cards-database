@@ -33,11 +33,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["paul-atanassov"]
+			stamps: ["paul-atanassov"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		}
 	]
 }

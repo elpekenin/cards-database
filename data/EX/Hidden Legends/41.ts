@@ -85,7 +85,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["state-championships"]
+			stamps: ["state-championships"]
 		}
 	]
 }

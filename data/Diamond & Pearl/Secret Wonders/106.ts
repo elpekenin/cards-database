@@ -80,11 +80,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["origins-2008"]
+			stamps: ["origins-2008"]
 		},
 		{
 			type: "normal",
-			stamp: ["origins-2008","staff"]
+			stamps: ["origins-2008","staff"]
 		}
 	]
 }

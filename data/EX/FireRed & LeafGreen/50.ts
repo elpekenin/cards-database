@@ -91,11 +91,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["pre-release"]
+			stamps: ["pre-release"]
 		},
 		{
 			type: "normal",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		}
 	]
 }

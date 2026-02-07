@@ -93,7 +93,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["platinum"]
+			stamps: ["platinum"]
 		},
 		{
 			type: "holo",
@@ -101,7 +101,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["countdown-calendar"]
+			stamps: ["countdown-calendar"]
 		}
 	]
 }

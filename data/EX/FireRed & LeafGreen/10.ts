@@ -96,19 +96,19 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		},
 		{
 			type: "holo",
-			stamp: ["jeremy-maron"]
+			stamps: ["jeremy-maron"]
 		},
 		{
 			type: "holo",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		},
 		{
 			type: "holo",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		}
 	]
 }

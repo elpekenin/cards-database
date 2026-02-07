@@ -79,11 +79,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		},
 		{
 			type: "holo",
-			stamp: ["tom-roos"]
+			stamps: ["tom-roos"]
 		}
 	]
 }

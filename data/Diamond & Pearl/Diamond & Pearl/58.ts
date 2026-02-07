@@ -89,15 +89,15 @@ const card: Card = {
 		},
 		{
 			type: "reverse",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["akira-miyazaki"]
+			stamps: ["akira-miyazaki"]
 		},
 		{
 			type: "normal",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		}
 	]
 }

@@ -111,15 +111,15 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["jimmy-ballard"]
+			stamps: ["jimmy-ballard"]
 		},
 		{
 			type: "holo",
-			stamp: ["jun-hasebe"]
+			stamps: ["jun-hasebe"]
 		},
 		{
 			type: "holo",
-			stamp: ["tom-roos"]
+			stamps: ["tom-roos"]
 		},
 	]
 }

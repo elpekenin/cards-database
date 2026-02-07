@@ -80,11 +80,11 @@ const card: Card = {
 		},
 		{
 			type:"normal",
-			stamp: ["comic-con"]
+			stamps: ["comic-con"]
 		},
 		{
 			type:"normal",
-			stamp: ["comic-con","staff"]
+			stamps: ["comic-con","staff"]
 		}
 	]
 }

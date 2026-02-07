@@ -38,11 +38,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["winner"]
+			stamps: ["winner"]
 		},
 		{
 			type: "normal",
-			stamp: ["winner"],
+			stamps: ["winner"],
 			size: "jumbo"
 		}
 	]

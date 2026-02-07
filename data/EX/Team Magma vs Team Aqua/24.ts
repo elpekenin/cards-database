@@ -81,7 +81,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["pre-release"]
+			stamps: ["pre-release"]
 		},
 		{
 			type: "reverse",

@@ -99,7 +99,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["platinum"]
+			stamps: ["platinum"]
 		}
 	]
 }

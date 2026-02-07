@@ -120,7 +120,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["hiroki-yano"]
+			stamps: ["hiroki-yano"]
 		}
 	]
 }

@@ -30,11 +30,11 @@ const card: Card = {
 		},
 		{
 			type: 'normal',
-			stamp: ['chris-fulop']
+			stamps: ['chris-fulop']
 		},
 		{
 			type: 'normal',
-			stamp: ['tsuguyoshi-yamato']
+			stamps: ['tsuguyoshi-yamato']
 		}
 	]
 }

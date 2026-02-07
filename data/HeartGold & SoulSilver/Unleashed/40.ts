@@ -87,7 +87,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["gustavo-wada"],
+			stamps: ["gustavo-wada"],
 		},
 	],
 

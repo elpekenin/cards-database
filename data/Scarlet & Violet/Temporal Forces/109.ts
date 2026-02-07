@@ -73,11 +73,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		},
 		{
 			type: "normal",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		}
 	],
 

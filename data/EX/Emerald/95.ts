@@ -103,7 +103,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["curran-hill"]
+			stamps: ["curran-hill"]
 		}
 	]
 }

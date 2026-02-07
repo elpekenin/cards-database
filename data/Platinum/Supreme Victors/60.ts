@@ -76,15 +76,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships"]
+			stamps: ["regional-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships","staff"]
+			stamps: ["regional-championships","staff"]
 		},
 		{
 			type: "normal",
-			stamp: ["yuta-komatsuda"]
+			stamps: ["yuta-komatsuda"]
 		}
 	]
 }

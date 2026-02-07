@@ -91,11 +91,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["zachary-bokhari"]
+			stamps: ["zachary-bokhari"]
 		},
 		{
 			type: "holo",
-			stamp: ["igor-costa"]
+			stamps: ["igor-costa"]
 		}
 	],
 

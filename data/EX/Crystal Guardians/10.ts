@@ -79,11 +79,11 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
-			stamp: ["tristan-robinson"]
+			stamps: ["tristan-robinson"]
 		}
 	]
 }

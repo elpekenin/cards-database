@@ -92,11 +92,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["pre-release"]
+			stamps: ["pre-release"]
 		},
 		{
 			type: "normal",
-			stamp: ["pre-release","staff"]
+			stamps: ["pre-release","staff"]
 		}
 	]
 }

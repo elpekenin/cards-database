@@ -89,18 +89,18 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["1st-edition"],
+			stamps: ["1st-edition"],
 			foil: "galaxy"
 		},
 		{
 			type: "holo",
 			foil: "cosmos",
-			stamp: ["pre-release"]
+			stamps: ["pre-release"]
 		},
 		{
 			type: "holo",
 			foil: "starlight",
-			stamp: ["pre-release"]
+			stamps: ["pre-release"]
 		},
 	]
 }

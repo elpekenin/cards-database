@@ -84,18 +84,18 @@ const card: Card = {
 	variants: [
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "holo",
 		},
 		{
 			type: "holo",
-			stamp: ["curran-hill"]
+			stamps: ["curran-hill"]
 		},
 		{
 			type: "holo",
-			stamp: ["michael-gonzalez"]
+			stamps: ["michael-gonzalez"]
 		},
 	]
 }

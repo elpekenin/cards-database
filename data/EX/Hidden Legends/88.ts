@@ -34,19 +34,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["tsuguyoshi-yamato"]
+			stamps: ["tsuguyoshi-yamato"]
 		},
 		{
 			type: "normal",
-			stamp: ["takashi-yoneda"]
+			stamps: ["takashi-yoneda"]
 		},
 		{
 			type: "normal",
-			stamp: ["michael-gonzalez"]
+			stamps: ["michael-gonzalez"]
 		},
 		{
 			type: "normal",
-			stamp: ["miska-saari"]
+			stamps: ["miska-saari"]
 		}
 	]
 }

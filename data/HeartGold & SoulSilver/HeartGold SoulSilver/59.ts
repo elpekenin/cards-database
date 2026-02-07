@@ -84,7 +84,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp : ["snowflake"],
+			stamps : ["snowflake"],
 			languages: ["de"]
 		},
 	],

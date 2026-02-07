@@ -86,11 +86,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["city-championships"]
+			stamps: ["city-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["city-championships","staff"]
+			stamps: ["city-championships","staff"]
 		}
 	]
 }

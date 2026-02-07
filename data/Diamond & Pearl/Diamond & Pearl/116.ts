@@ -34,11 +34,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["jun-hasebe"]
+			stamps: ["jun-hasebe"]
 		},
 		{
 			type: "normal",
-			stamp: ["jeremy-scharff-kim"]
+			stamps: ["jeremy-scharff-kim"]
 		}
 	]
 }

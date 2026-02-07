@@ -84,11 +84,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["comic-con"],
+			stamps: ["comic-con"],
 		},
 		{
 			type: "normal",
-			stamp: ["snowflake"],
+			stamps: ["snowflake"],
 			languages: ["de"]
 		}
 	],

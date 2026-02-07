@@ -83,13 +83,13 @@ const card: Card = {
 		},
 		{
 			type: 'holo',
-			stamp: [
+			stamps: [
 				"set-logo"
 			]
 		},
 		{
 			type: 'holo',
-			stamp: [
+			stamps: [
 				"set-logo",
 				"staff"
 			]

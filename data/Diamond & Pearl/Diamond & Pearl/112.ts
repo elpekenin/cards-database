@@ -38,7 +38,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["professor-program"]
+			stamps: ["professor-program"]
 		},
 	]
 }

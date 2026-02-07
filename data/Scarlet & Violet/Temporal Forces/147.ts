@@ -37,16 +37,16 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["player-rewards-program"],
+			stamps: ["player-rewards-program"],
 			foil: "cosmos"
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships"]
+			stamps: ["regional-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships", "staff"]
+			stamps: ["regional-championships", "staff"]
 		}
 	],
 

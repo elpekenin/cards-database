@@ -22,31 +22,31 @@ const card: Card = {
 	variants: [
 		{
 			type: "normal",
-			stamp: ["worlds-2025"]
+			stamps: ["worlds-2025"]
 		},
 		{
 			type: "normal",
-			stamp: ["worlds-2025","staff"]
+			stamps: ["worlds-2025","staff"]
 		},
 		{
 			type: "normal",
-			stamp: ["worlds-2025","top-thirty-two"]
+			stamps: ["worlds-2025","top-thirty-two"]
 		},
 		{
 			type: "normal",
-			stamp: ["worlds-2025","top-sixteen"]
+			stamps: ["worlds-2025","top-sixteen"]
 		},
 		{
 			type: "normal",
-			stamp: ["worlds-2025","top-eight"]
+			stamps: ["worlds-2025","top-eight"]
 		},
 		{
 			type: "normal",
-			stamp: ["worlds-2025","semi-finalist"]
+			stamps: ["worlds-2025","semi-finalist"]
 		},
 		{
 			type: "normal",
-			stamp: ["worlds-2025","finalist"]
+			stamps: ["worlds-2025","finalist"]
 		},
 	]
 }

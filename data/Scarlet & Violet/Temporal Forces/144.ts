@@ -37,63 +37,63 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-europe"]
+			stamps: ["international-championship-europe"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-europe", "champion"]
+			stamps: ["international-championship-europe", "champion"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-europe", "staff"]
+			stamps: ["international-championship-europe", "staff"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-europe", "top-eight"]
+			stamps: ["international-championship-europe", "top-eight"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-latin-america"]
+			stamps: ["international-championship-latin-america"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-latin-america", "champion"]
+			stamps: ["international-championship-latin-america", "champion"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-latin-america", "staff"]
+			stamps: ["international-championship-latin-america", "staff"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-latin-america", "top-eight"]
+			stamps: ["international-championship-latin-america", "top-eight"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-north-america"]
+			stamps: ["international-championship-north-america"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-north-america", "champion"]
+			stamps: ["international-championship-north-america", "champion"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-north-america", "staff"]
+			stamps: ["international-championship-north-america", "staff"]
 		},
 		{
 			type: "normal",
-			stamp: ["international-championship-north-america", "top-eight"]
+			stamps: ["international-championship-north-america", "top-eight"]
 		},
 		{
 			type: "normal",
-			stamp: ["gym-challenge"]
+			stamps: ["gym-challenge"]
 		},
 		{
 			type: "normal",
-			stamp: ["master-ball-league"]
+			stamps: ["master-ball-league"]
 		},
 		{
 			type: "normal",
-			stamp: ["master-ball-league", "judge"]
+			stamps: ["master-ball-league", "judge"]
 		},
 		{
 			type: "reverse",
@@ -101,12 +101,12 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["player-rewards-program"],
+			stamps: ["player-rewards-program"],
 			foil: "cosmos"
 		},
 		{
 			type: "normal",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		}
 	],
 

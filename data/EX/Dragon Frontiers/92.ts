@@ -78,7 +78,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["jun-hasebe"]
+			stamps: ["jun-hasebe"]
 		},
 	]
 }

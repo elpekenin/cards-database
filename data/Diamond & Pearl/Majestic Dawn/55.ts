@@ -88,19 +88,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["paul-atanassov"]
+			stamps: ["paul-atanassov"]
 		},
 		{
 			type: "normal",
-			stamp: ["dylan-lefavour"]
+			stamps: ["dylan-lefavour"]
 		},
 		{
 			type: "normal",
-			stamp: ["jason-klaczynski"]
+			stamps: ["jason-klaczynski"]
 		},
 		{
 			type: "normal",
-			stamp: ["stephen-silvestro"]
+			stamps: ["stephen-silvestro"]
 		}
 	]
 }

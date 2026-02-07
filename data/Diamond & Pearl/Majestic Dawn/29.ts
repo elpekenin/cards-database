@@ -99,7 +99,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["tristan-robinson"]
+			stamps: ["tristan-robinson"]
 		}
 	]
 }

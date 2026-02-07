@@ -33,11 +33,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["professor-program"]
+			stamps: ["professor-program"]
 		},
 		{
 			type: "normal",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		}
 	]
 }

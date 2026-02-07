@@ -22,7 +22,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["1st-edition"]
+			stamps: ["1st-edition"]
 		}
 	]
 }

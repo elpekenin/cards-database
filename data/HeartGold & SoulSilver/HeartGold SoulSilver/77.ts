@@ -74,7 +74,7 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp : ["ross-cawthorn"],
+			stamps : ["ross-cawthorn"],
 		}
 	],
 

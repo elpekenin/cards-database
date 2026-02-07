@@ -36,19 +36,19 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["chris-fulop"]
+			stamps: ["chris-fulop"]
 		},
 		{
 			type: "normal",
-			stamp: ["reed-weichler"]
+			stamps: ["reed-weichler"]
 		},
 		{
 			type: "normal",
-			stamp: ["winner"]
+			stamps: ["winner"]
 		},
 		{
 			type: "normal",
-			stamp: ["winner"],
+			stamps: ["winner"],
 			size: "jumbo"
 		}
 	]

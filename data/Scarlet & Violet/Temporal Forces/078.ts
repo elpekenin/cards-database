@@ -81,11 +81,11 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["trick-or-trade"]
+			stamps: ["trick-or-trade"]
 		},
 		{
 			type: "normal",
-			stamp: ["player-rewards-program"]
+			stamps: ["player-rewards-program"]
 		}
 	],
 

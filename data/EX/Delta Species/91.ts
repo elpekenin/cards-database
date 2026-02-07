@@ -30,15 +30,15 @@ const card: Card = {
 		},
 		{
 			type: "normal",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["miska-saari"]
+			stamps: ["miska-saari"]
 		},
 		{
 			type: "normal",
-			stamp: ["akira-miyazaki"]
+			stamps: ["akira-miyazaki"]
 		},
 	]
 }

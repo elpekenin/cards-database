@@ -87,15 +87,15 @@ const card: Card = {
 		},
 		{
 			type: "holo",
-			stamp: ["set-logo"]
+			stamps: ["set-logo"]
 		},
 		{
 			type: "normal",
-			stamp: ["regional-championships"]
+			stamps: ["regional-championships"]
 		},
 		{
 			type: "normal",
-			stamp: ["state-championships"]
+			stamps: ["state-championships"]
 		}
 	]
 }
